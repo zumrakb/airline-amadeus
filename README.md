@@ -1,5 +1,7 @@
 # CASE STUDY ( AMADEUS )
 
+# Live demo : [click here](https://master--calm-palmier-ecacbb.netlify.app/)
+
 ## Tech Stack || Library
 
 - ReactJS
