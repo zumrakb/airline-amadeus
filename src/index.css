@@ -5,3 +5,9 @@
 .rdrDefinedRangesWrapper {
   display: none;
 }
+
+@media (max-width: 639px) {
+  .rdrCalendarWrapper {
+    width: 87vw;
+  }
+}
